@@ -6,8 +6,11 @@
     "\\Data",
     "\\Models",
     "\\obj",
-    "\\Properties"
+    "\\obj\\Debug",
+    "\\obj\\Debug\\net5.0",
+    "\\Properties",
+    "\\Views"
   ],
-  "SelectedNode": "\\Models\\Product.cs",
+  "SelectedNode": "\\Controllers\\ProductsController.cs",
   "PreviewInSolutionExplorer": false
 }
